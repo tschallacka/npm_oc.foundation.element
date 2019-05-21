@@ -1,0 +1,23 @@
+{
+  "name": "@tschallacka/oc.foundation.element",
+  "version": "1.0.0",
+  "description": "Adds element helpers for the october foundation framework",
+  "main": "oc.foundation.element.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tschallacka/npm_oc.foundation.element.git"
+  },
+  "keywords": [
+    "october",
+    "octobercms"
+  ],
+  "author": "Tschallacka, OctoberCMS",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tschallacka/npm_oc.foundation.element/issues"
+  },
+  "homepage": "https://github.com/tschallacka/npm_oc.foundation.element#readme"
+}
